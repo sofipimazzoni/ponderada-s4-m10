@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAj54rfqTS36GLa+Yelxs7JBZol1bbEzD8fPeG9Ty27PTETqVQUBlBYXXCosFm27sRQmTXnTCp7tkP6NFZlaPA==",
+  "success": true,
+  "projectFilePath": "/Users/soso/Downloads/ponderadas4m10/ponderada-s4-m10.csproj",
+  "expectedPackageFiles": [
+    "/Users/soso/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
