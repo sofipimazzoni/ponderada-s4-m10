@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/abner/Documents/Github/Inteli/Ponderada-semana-4-ES10/ConsoleApp-metrics/ConsoleApp-metrics/ConsoleApp-metrics.csproj": {}
+  },
+  "projects": {
+    "/home/abner/Documents/Github/Inteli/Ponderada-semana-4-ES10/ConsoleApp-metrics/ConsoleApp-metrics/ConsoleApp-metrics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abner/Documents/Github/Inteli/Ponderada-semana-4-ES10/ConsoleApp-metrics/ConsoleApp-metrics/ConsoleApp-metrics.csproj",
+        "projectName": "ConsoleApp-metrics",
+        "projectPath": "/home/abner/Documents/Github/Inteli/Ponderada-semana-4-ES10/ConsoleApp-metrics/ConsoleApp-metrics/ConsoleApp-metrics.csproj",
+        "packagesPath": "/home/abner/.nuget/packages/",
+        "outputPath": "/home/abner/Documents/Github/Inteli/Ponderada-semana-4-ES10/ConsoleApp-metrics/ConsoleApp-metrics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

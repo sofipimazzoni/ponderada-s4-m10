@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6dd4LxolvSx5Xd182+2QJpAIC+XThwLoDwis5wovYfSUDqc5x0R8r9lPyZC/q6h0tulXoH3V612fGgciX6dVw==",
+  "success": true,
+  "projectFilePath": "/Users/soso/Downloads/ponderadas4m10/metrics/metrics/metricas.csproj",
+  "expectedPackageFiles": [
+    "/Users/soso/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/soso/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/soso/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
